@@ -1,0 +1,7 @@
+node_modules/
+.env
+generated/
+data/*.lance/
+*.aux
+*.log
+*.out
